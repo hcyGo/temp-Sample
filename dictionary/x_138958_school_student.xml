@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="x_138958_school_people" label="Student" max_length="40" name="x_138958_school_student" type="collection">
+    <element attributes="hasLabels=true" extends="x_138958_school_people" label="Student" max_length="40" name="x_138958_school_student" type="collection">
         <element label="level" max_length="40" name="level" type="integer"/>
     </element>
 </database>
