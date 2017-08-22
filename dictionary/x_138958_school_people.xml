@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="People" max_length="40" name="x_138958_school_people" type="collection">
+        <element label="name" max_length="40" name="name" type="string"/>
+        <element label="sex" max_length="40" name="sex" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+    </element>
+</database>

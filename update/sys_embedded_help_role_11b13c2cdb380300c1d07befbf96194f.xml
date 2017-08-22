@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_138958_school.people_user" name="x_138958_school.people_user">ddb1fce8db380300c1d07befbf961960</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-22 01:55:05</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>11b13c2cdb380300c1d07befbf96194f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ddb1fce8db380300c1d07befbf961960</sys_name>
+        <sys_package display_value="school" source="x_138958_school">d854405cdb300300c1d07befbf9619c6</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="school">d854405cdb300300c1d07befbf9619c6</sys_scope>
+        <sys_update_name>sys_embedded_help_role_11b13c2cdb380300c1d07befbf96194f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-22 01:55:05</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
